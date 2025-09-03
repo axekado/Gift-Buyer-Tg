@@ -28,7 +28,7 @@ And more.... *in future*
 
 # Installation📩
 ```shell
-git clone https://github.com/LLMotion/Gift-Buyer-Tg
+git clone https://github.com/axekado/Gift-Buyer-Tg
 cd Gift-Buyer-Tg
 run.bat
 ```
@@ -36,7 +36,7 @@ run.bat
 **OR**
 
 ```shell
-git clone https://github.com/LLMotion/Gift-Buyer-Tg
+git clone https://github.com/axekado/Gift-Buyer-Tg
 cd Gift-Buyer-Tg
 pip install -r requirements.txt
 python main.py
