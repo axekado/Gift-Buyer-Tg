@@ -5,7 +5,8 @@
 
 # Preview🖼
 
-![image](https://github.com/user-attachments/assets/dd0e54a7-b449-4a87-9a1b-5fa47a39366b)
+<img width="671" height="310" alt="image" src="https://github.com/user-attachments/assets/7fc71b6a-2fe6-47d0-a663-208c587d244a" />
+
 
 
 
