@@ -1,7 +1,7 @@
 import configparser
 import sys
 from pathlib import Path
-from typing import List, Union, Dict, Any
+from typing import List, Union, Dict, Any 
 
 from app.utils.localization import localization 
 from app.utils.logger import error
